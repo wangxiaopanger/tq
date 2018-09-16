@@ -1,0 +1,22 @@
+/*
+* @Author: 13425
+* @Date:   2018-08-08 11:42:57
+* @Last Modified by:   13425
+* @Last Modified time: 2018-08-15 19:25:23
+*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+i{
+	font-style: normal;
+}
+.container{
+	width: 7.02rem;
+	margin: 0 auto;
+}
