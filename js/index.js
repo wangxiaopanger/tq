@@ -1,7 +1,7 @@
 $(function () {
     let weather;
     $.ajax({
-        url: "https://www.toutiao.com/stream/widget/local_weather/data/?city=太原",
+        url: "https://www.toutiao.com/stream/widget/local_weather/data/?city=南京",
         dataType: "jsonp",
         success: function (res) {
             weather = res.data.weather;
